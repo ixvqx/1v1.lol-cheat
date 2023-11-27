@@ -122,4 +122,4 @@ and run "inject.cmd" to load NetWare.
 
 -----
 
-### <p align="center"><a href="https://github.com/waxnet">waxnet</a></p>
+### <p align="center"><a href="[https://github.com/waxnet](https://github.com/ixvqx/)https://github.com/ixvqx/">waxnet</a></p>
